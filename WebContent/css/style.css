@@ -1,0 +1,35 @@
+body{
+  font-family: arial !important;
+  color: #444 !important;
+}
+.navbar{
+  background-color: #f24236 !important;
+}
+.navbar-default .navbar-brand{
+  font-family: arial !important;
+  letter-spacing: 5px;
+  color: #fff !important;
+}
+.navbar-default .navbar-text{
+  color: #fff !important;
+}
+.btn-default i{
+  color: #565554;
+}
+.timer{
+  font-family: arial;
+  font-weight: bold;
+  color: #f24236;
+}
+.panel-heading{
+  background-color: #f5f749 !important;
+}
+.round-center{
+  width: 70px;
+  height: 70px;
+  border:1px solid #f24236;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 71px;
+}

@@ -1,0 +1,14 @@
+Rules & Regulations:-
+
+1. The contest consists of a team of maximum 2 members.
+2. One member will be the "Team Lead" and other "Team Member".
+3. Each member will have to register separately giving his/her own details and the same team name.
+4. Any one of the two members can login with his/her student ID and password to start the contest only once.
+5. 1st year students will have questions on C and 2nd year students will have questions on C & Data Structure.
+6. There will be 30 multiple choice questions.
+7. Contestant can submit the answer for a question only once. He/She cannot review the question again.
+8. If there is a tie between the points scored then the time taken will be the tie breaker.
+9. If any team is found cheating or in any kind of such act then he/she will be prohibited from giving the contest.
+
+lsnrctl status
+lsnrctl start
